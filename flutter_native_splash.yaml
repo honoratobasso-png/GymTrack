@@ -1,0 +1,17 @@
+flutter_native_splash:
+  # Cor de fundo da Splash Screen (azul escuro do GymTrack)
+  color: "#0B0F19"
+  
+  # Ícone centralizado na splash
+  image: assets/images/splash_logo.png
+  
+  # Cor para modo escuro (mesmo fundo)
+  color_dark: "#0B0F19"
+  image_dark: assets/images/splash_logo.png
+  
+  android_12:
+    color: "#0B0F19"
+    image: assets/images/splash_logo.png
+    icon_background_color: "#0B0F19"
+
+  fullscreen: false

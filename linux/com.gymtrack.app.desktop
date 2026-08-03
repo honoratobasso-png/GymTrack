@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GymTrack
+Comment=Planeje e acompanhe seus treinos
+Exec=gymtrack
+Icon=com.gymtrack.app
+Terminal=false
+Categories=Utility;Sports;
+StartupWMClass=com.gymtrack.app
